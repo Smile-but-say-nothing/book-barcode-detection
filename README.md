@@ -6,7 +6,7 @@ A automatic method using OpenCV to detect book barcode
 - Python 3.6
 - Pc & Camera
 ## Performance
-Because the positioning of the barcode is detected first in the code by the black frame outside the barcode, the detection performane is better when the barcode has a frame.By virture of this,  the future direction of improvement lies in how to detect and detect barcode without a special positioning mark like black frame.Moreover, how to speed up the method(FPS is low).
+Because the positioning of the barcode is detected first in the code by the black frame outside the barcode, the detection performane is better when the barcode has a frame. By virture of this, the future direction of improvement lies in how to identify and detect barcode without a special positioning mark like black frame. Moreover, how to speed up the method(FPS is low).
 
 **Example 1**
 
